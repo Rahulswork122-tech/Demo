@@ -1,4 +1,4 @@
 # Demo
 This is my first repo file
 <br>
-Author:-Rahulu Sethi
+Author:-Rahulu
